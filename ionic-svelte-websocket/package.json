@@ -1,0 +1,33 @@
+{
+	"name": "lol",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev --host",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@capacitor/cli": "^5.0.4",
+		"@sveltejs/adapter-static": "^2.0.2",
+		"@sveltejs/kit": "^1.5.0",
+		"autoprefixer": "^10.4.14",
+		"laravel-echo": "^1.15.1",
+		"postcss": "^8.4.23",
+		"pusher-js": "^8.0.2",
+		"svelte": "^3.54.0",
+		"svelte-preprocess": "^5.0.3",
+		"tailwindcss": "^3.3.2",
+		"vite": "^4.3.8"
+	},
+	"type": "module",
+	"dependencies": {
+		"@capacitor/android": "^5.0.4",
+		"@capacitor/core": "^5.0.4",
+		"@capacitor/motion": "^5.0.2",
+		"@ionic/core": "^7.0.3",
+		"ionic-svelte": "^0.5.81",
+		"ionicons": "^7.1.1",
+		"socket.io-client": "^2.5.0"
+	}
+}

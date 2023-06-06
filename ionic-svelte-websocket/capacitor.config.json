@@ -1,0 +1,12 @@
+{
+  "webDir": "build",
+  "appId": "lol.ionic.io",
+  "appName": "lol",
+  "_server": {
+    "url": "http://192.168.110.1:5173/",
+    "cleartext": true
+  },
+  "server": {
+    "androidScheme": "http"
+  }
+}

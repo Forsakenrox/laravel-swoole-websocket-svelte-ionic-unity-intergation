@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">lol</string>
+    <string name="title_activity_main">lol</string>
+    <string name="package_name">lol.ionic.io</string>
+    <string name="custom_url_scheme">lol.ionic.io</string>
+</resources>
